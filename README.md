@@ -16,7 +16,7 @@ Inspect the CSVs and sketch out an ERD of the tables
 
 
 
-##Data Analysis
+## Data Analysis
 Once you have a complete database, do the following:
 
 
